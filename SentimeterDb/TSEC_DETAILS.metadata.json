@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"SentimeterDb.TSEC_DETAILS"}],"uuid":"ef989a1cb9a74b2caf9f9e519b14d5e2"}
